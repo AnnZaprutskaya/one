@@ -1,0 +1,16 @@
+form {
+	width: 50%;
+	margin: 0px auto;
+	border:none;
+}
+
+p {
+	text-align: center;
+}
+
+#target {
+	height: 550px;
+	width: 100%;
+	margin:10px 0;
+	border: 1px dotted #ccc;
+}
